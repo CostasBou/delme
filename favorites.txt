@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 tomato
 potato
 beef
-=======
 Movie 1
 Movie 2
 Movie 3
->>>>>>> movies
+test
